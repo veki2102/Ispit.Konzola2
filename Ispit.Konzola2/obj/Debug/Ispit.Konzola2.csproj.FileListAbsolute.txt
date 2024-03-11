@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\bin\Debug\Ispit.Konzola2.exe.config
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\bin\Debug\Ispit.Konzola2.exe
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\bin\Debug\Ispit.Konzola2.pdb
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\obj\Debug\Ispit.Konzola2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\obj\Debug\Ispit.Konzola2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\obj\Debug\Ispit.Konzola2.exe
+C:\Users\Korisnik\source\repos\Ispit.Konzola2\obj\Debug\Ispit.Konzola2.pdb
